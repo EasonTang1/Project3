@@ -1,0 +1,231 @@
+/*gun*/
+.gun table, th, td{
+  border: 1px solid black;
+}
+
+
+
+.gun{
+	background-image: url("../img/BAAGpapers.jpg");
+	background-color:#a9a9a9;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size:cover;
+}
+
+.styledgun{
+	font-family:verdana;
+	width:1250px;
+	background-image:url("../img/paper.png");
+	background-repeat: none;
+	background-size:cover;
+	padding:75px;
+	margin:auto;
+	opacity:0.8;
+	padding-top:150px;
+}
+
+/*background*/
+.background{
+	background-image: url("../img/naval.jpg");
+	background-color:#a9a9a9;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size:cover;
+}
+
+.styledbackground{
+	font-family:verdana;
+	width:1250px;
+	padding:75px;
+	padding-bottom:100px;
+	margin:auto;
+	background-image:url("../img/paper.png");
+	opacity:0.7;
+	background-repeat: none;
+	background-size:cover;
+}
+
+/*home*/
+.home{
+	background-size:cover;
+	background-image: url("../img/sinojapwar.jpg");
+	background-color:#a9a9a9;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size:cover;
+	margin:auto;
+}
+
+.styledhome{
+	font-family:verdana;
+	width:1250px;
+	padding:75px;
+	margin:auto;
+	background-image:url("../img/paper.png");
+	opacity:0.8;
+	background-repeat: none;
+	background-size:cover;
+	padding-bottom:500px;
+	padding-top:150px;
+}
+
+/*gallery*/
+.gallery{
+	background-size:cover;
+	background-image: url("../img/sinkingzuikaku.jpg");
+	background-color:#a9a9a9;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size:cover;
+}
+
+.styledgallery{
+	font-family:verdana;
+	width:1250px;
+	padding:75px;
+	background-image:url("../img/paper.png");
+	opacity:0.8;
+	background-repeat: none;
+	background-size:cover;
+	padding-top:150px;
+	margin:auto;
+	padding-bottom: 250px;
+}
+
+/*bibliography page*/
+.bibliography{
+	background-size:cover;
+	background-image: url("../img/chonghospital.jpg");
+	background-color:#a9a9a9;
+	background-attachment: fixed;
+	background-repeat: none;
+	background-size:cover;
+}
+
+.styledbibliography{
+	font-family:verdana;
+	width:1250px;
+	padding:75px;
+	background-image:url("../img/paper.png");
+	opacity:0.8;
+	background-repeat: none;
+	background-size:cover;
+	padding-top:150px;
+	padding-bottom:150px;
+}
+
+
+/* Navbar container */
+.navbar {
+	background-color:	rgba(176,0,41,0.9);
+	padding: 0;
+	margin: auto;
+	margin-bottom: 50px;
+}
+
+/* Links inside the navbar */
+.navbar a {
+  float: left;
+  font-size: 16px;
+  color: #007FFF;
+  text-align: center;
+  padding: 14px 16px;
+  text-decoration: none;
+}
+
+/* The dropdown container */
+.dropdown {
+  float: left;
+  overflow: hidden;
+}
+
+/* Dropdown button */
+.dropdown .dropbtn {
+  font-size: 16px;
+  border: none;
+  outline: none;
+  color: #007FFF;
+  padding: 14px 16px;
+  background-color: inherit;
+  font-family: inherit; /* Important for vertical align on mobile phones */
+  margin: 0; /* Important for vertical align on mobile phones */
+}
+
+/* Add a red background color to navbar links on hover */
+.navbar a:hover, .dropdown:hover .dropbtn {
+  background-color:	rgba(176,0,41,0.5);
+}
+
+/* Dropdown content (hidden by default) */
+.dropdown-content {
+  display: none;
+  position: absolute;
+  background-color: rgba(128,128,128,0.5);
+  min-width: 160px;
+  box-shadow: 0px 8px 16px 0px rgba(0,0,0,0.2);
+  z-index: 1;
+}
+
+/* Links inside the dropdown */
+.dropdown-content a {
+  float: none;
+  color: #007FFF;
+  padding: 12px 16px;
+  text-decoration: none;
+  display: block;
+  text-align: left;
+}
+
+/* Add a grey background color to dropdown links on hover */
+.dropdown-content a:hover {
+  background-color: rgba(176,0,41,0.5);
+}
+
+/* Show the dropdown menu on hover */
+.dropdown:hover .dropdown-content {
+  display: block;
+}
+
+/*general*/
+ a.currentpage {
+	color:black;
+}
+
+.center{
+	text-align:center;
+}
+
+/*images*/
+.backgroundimg{
+    width:  400px;
+    height: 290px;
+    object-fit: cover;
+}
+
+.backgroundimg2{
+    width:  400px;
+    height: 290px;
+    object-fit: cover;
+}
+.backgroundimg3{
+    width:  400px;
+    height: 290px;
+    object-fit: cover;
+}
+
+.backgroundimg4{
+    width:  400px;
+    height: 290px;
+}
+
+.backgroundimg5{
+    width:  200px;
+    height: 290px;
+}
+
+.backgroundimg6{
+	width:300px;
+	height:150px;
+}
+
